@@ -1,6 +1,6 @@
 {
-  "name": "coininfo",
-  "version": "4.3.0",
+  "name": "rpgcoininfo",
+  "version": "4.3.1",
   "description": "JavaScript component for crypto currency specific information.",
   "license": "MIT",
   "keywords": [
